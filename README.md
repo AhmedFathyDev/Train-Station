@@ -1,3 +1,2 @@
 # Train-Station
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+C++ fundamentals project, A simple project for the train station.
