@@ -229,14 +229,12 @@ bool repetition(string ch)
 		cout << '\n';
 		b = 1;
 	} while (choice < 1 || choice > 2);
-	switch (choice)
+	if (choice == 2)
 	{
-	case 1:
-		return 1;
-	case 2:
 		Introduction();
 		return 0;
 	}
+	return 1;
 }
 void Reserve_a_ticket()
 {
